@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrowUp-Even3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ceea3e51f55201aefe158e779a5095b2391bc19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dfa29acd0576d90886eea23d507e66dc3b5d25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrowUp-Even3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrowUp-Even3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

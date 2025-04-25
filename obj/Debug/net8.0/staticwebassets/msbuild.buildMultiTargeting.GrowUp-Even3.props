@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GrowUp-Even3.props" />
+</Project>
